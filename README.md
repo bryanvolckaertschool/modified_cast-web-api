@@ -6,7 +6,7 @@ You can follow the installation guide here.
 We are not the original creators of this repo and dont intent to sell the code. We just needed a selfcontrolled Repo for our project.
 
 # implementation in Project heartbeat
-https://github.com/bryanvolckaertschool/Projectheartbeat
+https://github.com/bryanvolckaertschool/Projectheartbeats
 
 We use cast-web-api to connect to our google-cast capable devices. 
 The functions we use are the following:
